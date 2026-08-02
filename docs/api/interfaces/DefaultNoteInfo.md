@@ -6,7 +6,7 @@
 
 # Interface: DefaultNoteInfo
 
-Defined in: [types.ts:1073](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L1073)
+Defined in: [types.ts:1068](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L1068)
 
 Default note ID, note type and deck name of a note
 
@@ -24,7 +24,7 @@ Setting any of the properties to:
 
 > `optional` **deckPath?**: `string` \| `true`
 
-Defined in: [types.ts:1087](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L1087)
+Defined in: [types.ts:1082](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L1082)
 
 A default for [Result.deckPath](Kana.md#deckpath)
 
@@ -34,7 +34,7 @@ A default for [Result.deckPath](Kana.md#deckpath)
 
 > `optional` **guid?**: `true` \| `"main_information"`
 
-Defined in: [types.ts:1079](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L1079)
+Defined in: [types.ts:1074](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L1074)
 
 A default for [Result.noteID](Kana.md#noteid)
 
@@ -46,6 +46,6 @@ A default for [Result.noteID](Kana.md#noteid)
 
 > `optional` **noteType?**: `string` \| `true`
 
-Defined in: [types.ts:1083](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L1083)
+Defined in: [types.ts:1078](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L1078)
 
 A default for [Result.noteTypeName](Kana.md#notetypename)

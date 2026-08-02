@@ -29,6 +29,7 @@
         "strictFunctionTypes": true,
         "strictNullChecks": true,
         "strictPropertyInitialization": true,
+        "types": ["node"],
 
         // Emit
         "declaration": true,

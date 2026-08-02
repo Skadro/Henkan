@@ -644,12 +644,7 @@ export type Dict =
  * Names of entry types used for the Anki note IDs
  */
 export type EntryType =
-  | "word"
-  | "name"
-  | "kanji"
-  | "radical"
-  | "kana"
-  | "grammar";
+  "word" | "name" | "kanji" | "radical" | "kana" | "grammar";
 
 /**
  * Basic Anki note information
