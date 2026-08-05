@@ -8,6 +8,6 @@
 
 > **KanjiSVGMap** = `Map`\<`string`, `string`\>
 
-Defined in: [types.ts:505](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L505)
+Defined in: [types.ts:505](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L505)
 
 A `KANJIDIC kanji character` ---> `SVG filename` map

@@ -46,47 +46,47 @@ const dictURLs: Map<DictNames, string> = new Map<DictNames, string>([
   ["radkfile2", "http://ftp.edrdg.org/pub/Nihongo/kradzip.zip"],
   [
     "radicals.json",
-    "https://raw.githubusercontent.com/Ronokof/Full-Japanese-Study-Deck/refs/heads/main/results/radicals/json/radicals.json",
+    "https://raw.githubusercontent.com/Skadro/Full-Japanese-Study-Deck/refs/heads/main/results/radicals/json/radicals.json",
   ],
   [
     "hiragana.json",
-    "https://raw.githubusercontent.com/Ronokof/Full-Japanese-Study-Deck/refs/heads/main/results/kana/json/hiragana.json",
+    "https://raw.githubusercontent.com/Skadro/Full-Japanese-Study-Deck/refs/heads/main/results/kana/json/hiragana.json",
   ],
   [
     "hiragana_extended.json",
-    "https://raw.githubusercontent.com/Ronokof/Full-Japanese-Study-Deck/refs/heads/main/results/kana/json/hiragana_extended.json",
+    "https://raw.githubusercontent.com/Skadro/Full-Japanese-Study-Deck/refs/heads/main/results/kana/json/hiragana_extended.json",
   ],
   [
     "katakana.json",
-    "https://raw.githubusercontent.com/Ronokof/Full-Japanese-Study-Deck/refs/heads/main/results/kana/json/katakana.json",
+    "https://raw.githubusercontent.com/Skadro/Full-Japanese-Study-Deck/refs/heads/main/results/kana/json/katakana.json",
   ],
   [
     "katakana_extended.json",
-    "https://raw.githubusercontent.com/Ronokof/Full-Japanese-Study-Deck/refs/heads/main/results/kana/json/katakana_extended.json",
+    "https://raw.githubusercontent.com/Skadro/Full-Japanese-Study-Deck/refs/heads/main/results/kana/json/katakana_extended.json",
   ],
   [
     "grammar_n5.json",
-    "https://raw.githubusercontent.com/Ronokof/Full-Japanese-Study-Deck/refs/heads/main/results/grammar/json/grammar_n5.json",
+    "https://raw.githubusercontent.com/Skadro/Full-Japanese-Study-Deck/refs/heads/main/results/grammar/json/grammar_n5.json",
   ],
   [
     "grammar_n4.json",
-    "https://raw.githubusercontent.com/Ronokof/Full-Japanese-Study-Deck/refs/heads/main/results/grammar/json/grammar_n4.json",
+    "https://raw.githubusercontent.com/Skadro/Full-Japanese-Study-Deck/refs/heads/main/results/grammar/json/grammar_n4.json",
   ],
   [
     "grammar_n3.json",
-    "https://raw.githubusercontent.com/Ronokof/Full-Japanese-Study-Deck/refs/heads/main/results/grammar/json/grammar_n3.json",
+    "https://raw.githubusercontent.com/Skadro/Full-Japanese-Study-Deck/refs/heads/main/results/grammar/json/grammar_n3.json",
   ],
   [
     "grammar_n2.json",
-    "https://raw.githubusercontent.com/Ronokof/Full-Japanese-Study-Deck/refs/heads/main/results/grammar/json/grammar_n2.json",
+    "https://raw.githubusercontent.com/Skadro/Full-Japanese-Study-Deck/refs/heads/main/results/grammar/json/grammar_n2.json",
   ],
   [
     "grammar_n1.json",
-    "https://raw.githubusercontent.com/Ronokof/Full-Japanese-Study-Deck/refs/heads/main/results/grammar/json/grammar_n1.json",
+    "https://raw.githubusercontent.com/Skadro/Full-Japanese-Study-Deck/refs/heads/main/results/grammar/json/grammar_n1.json",
   ],
   [
     "grammar_additional.json",
-    "https://raw.githubusercontent.com/Ronokof/Full-Japanese-Study-Deck/refs/heads/main/results/grammar/json/grammar_additional.json",
+    "https://raw.githubusercontent.com/Skadro/Full-Japanese-Study-Deck/refs/heads/main/results/grammar/json/grammar_additional.json",
   ],
   [
     "raw-wiktextract-data",

@@ -1,6 +1,6 @@
 {
   "name": "henkan",
-  "version": "3.0.6",
+  "version": "3.0.7",
   "description": "Converter & Simplifier for JMdict, JMnedict, KANJIDIC, KRADFILE2, RADKFILE2 and Tanaka Corpus",
   "keywords": [
     "fjsd",
@@ -22,17 +22,17 @@
     "tanaka-corpus"
   ],
   "author": {
-    "name": "Ronokof",
-    "email": "ronokoffjsd@gmail.com"
+    "name": "skadro",
+    "email": "skadro21@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ronokof/Henkan.git"
+    "url": "git+https://github.com/Skadro/Henkan.git"
   },
-  "homepage": "https://github.com/Ronokof/Henkan",
+  "homepage": "https://github.com/Skadro/Henkan",
   "bugs": {
-    "url": "https://github.com/Ronokof/Henkan/issues",
-    "email": "ronokoffjsd@gmail.com"
+    "url": "https://github.com/Skadro/Henkan/issues",
+    "email": "skadro21@gmail.com"
   },
   "license": "MIT",
   "main": "dist/index.cjs.js",
@@ -68,7 +68,7 @@
     "build": "npm run clean && npm run build:types && npm run build:esm && npm run build:cjs",
     "lint": "eslint --fix --fix-type problem,suggestion,layout",
     "prepare": "npm run lint && npm run build && npm run docs:api",
-    "docs:api": "typedoc --plugin typedoc-plugin-markdown --out docs/api src/index.ts --readme none --excludePrivate --excludeProtected --excludeNotDocumented --hideGenerator --sourceLinkTemplate \"https://github.com/Ronokof/Henkan/blob/{gitRevision}/{path}#L{line}\" --gitRevision main",
+    "docs:api": "typedoc --plugin typedoc-plugin-markdown --out docs/api src/index.ts --readme none --excludePrivate --excludeProtected --excludeNotDocumented --hideGenerator --sourceLinkTemplate \"https://github.com/Skadro/Henkan/blob/{gitRevision}/{path}#L{line}\" --gitRevision main",
     "update:pkgs": "node ./scripts/update-packages.cjs"
   },
   "devDependencies": {

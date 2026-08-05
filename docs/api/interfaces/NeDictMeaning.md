@@ -6,7 +6,7 @@
 
 # Interface: NeDictMeaning
 
-Defined in: [types.ts:229](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L229)
+Defined in: [types.ts:229](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L229)
 
 Name translation information
 
@@ -18,7 +18,7 @@ Equivalent to the `trans` JMnedict element
 
 > `optional` **nameTypes?**: `string`[]
 
-Defined in: [types.ts:237](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L237)
+Defined in: [types.ts:237](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L237)
 
 Types of the name
 
@@ -28,6 +28,6 @@ Types of the name
 
 > **translations**: `string`[]
 
-Defined in: [types.ts:233](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L233)
+Defined in: [types.ts:233](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L233)
 
 Name translations

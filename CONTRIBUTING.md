@@ -16,7 +16,7 @@
 - Screenshots or examples of the changes. *(if applicable)*
 
 ## **Security vulnerabilities**
-  - See [Security Policy](https://github.com/Ronokof/Henkan/security/policy).
+  - See [Security Policy](https://github.com/Skadro/Henkan/security/policy).
 
 ---
 

@@ -3,13 +3,13 @@ description: Report a problem with Henkan.
 title: "[SHORT DESCRIPTION]"
 labels: ["bug"]
 assignees:
-  - Ronokof
+  - Skadro
 body:
   - type: markdown
     id: security_vulnerability
     attributes:
       value: |
-        If you are looking to report a security vulnerability, check [Security Policy](https://github.com/Ronokof/Henkan/security/policy)!
+        If you are looking to report a security vulnerability, check [Security Policy](https://github.com/Skadro/Henkan/security/policy)!
   - type: textarea
     id: issue_description
     attributes:
@@ -78,7 +78,7 @@ body:
     id: issue_valid
     attributes:
       label: Is this issue valid?
-      description: "You have read and understood the [CONTRIBUTING.md](https://github.com/Ronokof/Henkan/blob/main/CONTRIBUTING.md), [CODE_OF_CONDUCT.md](https://github.com/Ronokof/Henkan/blob/main/CODE_OF_CONDUCT.md) and [Security Policy](https://github.com/Ronokof/Henkan/security/policy), and believe this issue is valid?" 
+      description: "You have read and understood the [CONTRIBUTING.md](https://github.com/Skadro/Henkan/blob/main/CONTRIBUTING.md), [CODE_OF_CONDUCT.md](https://github.com/Skadro/Henkan/blob/main/CODE_OF_CONDUCT.md) and [Security Policy](https://github.com/Skadro/Henkan/security/policy), and believe this issue is valid?" 
       options:
         - label: I agree
           required: true

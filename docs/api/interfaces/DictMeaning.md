@@ -6,7 +6,7 @@
 
 # Interface: DictMeaning
 
-Defined in: [types.ts:133](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L133)
+Defined in: [types.ts:133](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L133)
 
 Word meaning/sense information
 
@@ -18,7 +18,7 @@ Equivalent to the `sense` JMdict element
 
 > `optional` **antonyms?**: `string`[]
 
-Defined in: [types.ts:159](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L159)
+Defined in: [types.ts:159](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L159)
 
 References to antonyms of the word *(when used with this meaning)*
 
@@ -28,7 +28,7 @@ References to antonyms of the word *(when used with this meaning)*
 
 > `optional` **dialects?**: `string`[]
 
-Defined in: [types.ts:181](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L181)
+Defined in: [types.ts:181](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L181)
 
 Regional dialects the meaning is restricted to
 
@@ -42,7 +42,7 @@ Regional dialects the meaning is restricted to
 
 > `optional` **fields?**: `string`[]
 
-Defined in: [types.ts:165](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L165)
+Defined in: [types.ts:165](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L165)
 
 Field of application of the word *(when used with this meaning)*
 
@@ -56,7 +56,7 @@ Field of application of the word *(when used with this meaning)*
 
 > `optional` **info?**: `string`[]
 
-Defined in: [types.ts:169](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L169)
+Defined in: [types.ts:169](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L169)
 
 Additional information about the meaning
 
@@ -66,7 +66,7 @@ Additional information about the meaning
 
 > `optional` **kanjiFormRestrictions?**: `string`[]
 
-Defined in: [types.ts:151](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L151)
+Defined in: [types.ts:151](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L151)
 
 Kanji forms the meaning is restricted to
 
@@ -76,7 +76,7 @@ Kanji forms the meaning is restricted to
 
 > `optional` **misc?**: `string`[]
 
-Defined in: [types.ts:175](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L175)
+Defined in: [types.ts:175](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L175)
 
 Other relevant information about the meaning
 
@@ -90,7 +90,7 @@ Other relevant information about the meaning
 
 > **partOfSpeech**: `string`[]
 
-Defined in: [types.ts:139](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L139)
+Defined in: [types.ts:139](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L139)
 
 Part of speech information
 
@@ -104,7 +104,7 @@ Part of speech information
 
 > `optional` **readingRestrictions?**: `string`[]
 
-Defined in: [types.ts:155](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L155)
+Defined in: [types.ts:155](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L155)
 
 Readings the meaning is restricted to
 
@@ -114,7 +114,7 @@ Readings the meaning is restricted to
 
 > `optional` **references?**: `string`[]
 
-Defined in: [types.ts:147](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L147)
+Defined in: [types.ts:147](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L147)
 
 Cross-references to other similar/related words *(when used with this meaning)*
 
@@ -124,6 +124,6 @@ Cross-references to other similar/related words *(when used with this meaning)*
 
 > **translations**: [`DictTranslation`](../type-aliases/DictTranslation.md)[]
 
-Defined in: [types.ts:143](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L143)
+Defined in: [types.ts:143](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L143)
 
 Word glosses

@@ -6,7 +6,7 @@
 
 # Interface: Translation
 
-Defined in: [types.ts:742](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L742)
+Defined in: [types.ts:742](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L742)
 
 A translation of the word/name
 
@@ -18,7 +18,7 @@ Converted from [DictMeaning](DictMeaning.md) or [NeDictMeaning](NeDictMeaning.md
 
 > `optional` **notes?**: `string`[]
 
-Defined in: [types.ts:750](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L750)
+Defined in: [types.ts:750](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L750)
 
 Information about the translation
 
@@ -28,6 +28,6 @@ Information about the translation
 
 > `readonly` **translation**: `string`
 
-Defined in: [types.ts:746](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L746)
+Defined in: [types.ts:746](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L746)
 
 The translation

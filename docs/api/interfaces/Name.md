@@ -6,7 +6,7 @@
 
 # Interface: Name
 
-Defined in: [types.ts:950](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L950)
+Defined in: [types.ts:950](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L950)
 
 Name information
 
@@ -22,7 +22,7 @@ Converted from [DictName](DictName.md)
 
 > `optional` **common?**: `true`
 
-Defined in: [types.ts:974](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L974)
+Defined in: [types.ts:974](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L974)
 
 #### See
 
@@ -34,7 +34,7 @@ Defined in: [types.ts:974](https://github.com/Ronokof/Henkan/blob/main/src/types
 
 > `optional` **deckPath?**: `string`
 
-Defined in: [types.ts:668](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L668)
+Defined in: [types.ts:668](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L668)
 
 The full path of the Anki deck
 
@@ -48,7 +48,7 @@ The full path of the Anki deck
 
 > `optional` **doNotCreateNote?**: `true`
 
-Defined in: [types.ts:676](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L676)
+Defined in: [types.ts:676](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L676)
 
 Whether or not this entry should be converted into an Anki note
 
@@ -62,7 +62,7 @@ Whether or not this entry should be converted into an Anki note
 
 > `optional` **id?**: `` `${number}` ``
 
-Defined in: [types.ts:660](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L660)
+Defined in: [types.ts:660](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L660)
 
 ID used for the Anki note ID
 
@@ -76,7 +76,7 @@ ID used for the Anki note ID
 
 > `optional` **kanji?**: [`Kanji`](Kanji.md)[]
 
-Defined in: [types.ts:966](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L966)
+Defined in: [types.ts:966](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L966)
 
 A list of kanji used in the kanji forms
 
@@ -86,7 +86,7 @@ A list of kanji used in the kanji forms
 
 > `optional` **kanjiForms?**: [`KanjiForm`](KanjiForm.md)[]
 
-Defined in: [types.ts:962](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L962)
+Defined in: [types.ts:962](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L962)
 
 The name kanji forms
 
@@ -96,7 +96,7 @@ The name kanji forms
 
 > **nameReadings**: [`Reading`](Reading.md)[]
 
-Defined in: [types.ts:954](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L954)
+Defined in: [types.ts:954](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L954)
 
 The name readings (in kana)
 
@@ -106,7 +106,7 @@ The name readings (in kana)
 
 > `optional` **noteID?**: `string`
 
-Defined in: [types.ts:656](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L656)
+Defined in: [types.ts:656](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L656)
 
 ID used for the resulting Anki note
 
@@ -120,7 +120,7 @@ ID used for the resulting Anki note
 
 > `optional` **noteTypeName?**: `string`
 
-Defined in: [types.ts:664](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L664)
+Defined in: [types.ts:664](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L664)
 
 Anki note type name
 
@@ -134,7 +134,7 @@ Anki note type name
 
 > `optional` **phrases?**: [`Phrase`](Phrase.md)[]
 
-Defined in: [types.ts:970](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L970)
+Defined in: [types.ts:970](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L970)
 
 Phrases associated to the name
 
@@ -144,7 +144,7 @@ Phrases associated to the name
 
 > `optional` **tags?**: `string`[]
 
-Defined in: [types.ts:672](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L672)
+Defined in: [types.ts:672](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L672)
 
 Tags generated based on the entry's information
 
@@ -158,6 +158,6 @@ Tags generated based on the entry's information
 
 > **translations**: [`Translation`](Translation.md)[]
 
-Defined in: [types.ts:958](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L958)
+Defined in: [types.ts:958](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L958)
 
 The name translations

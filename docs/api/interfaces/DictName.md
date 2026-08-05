@@ -6,7 +6,7 @@
 
 # Interface: DictName
 
-Defined in: [types.ts:245](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L245)
+Defined in: [types.ts:245](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L245)
 
 JMnedict entry (name)
 
@@ -18,7 +18,7 @@ Equivalent to the `entry` JMnedict element
 
 > `optional` **hasPhrases?**: `true`
 
-Defined in: [types.ts:271](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L271)
+Defined in: [types.ts:271](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L271)
 
 Whether or not the entry has at least one Tanaka Corpus phrase associated with it
 
@@ -30,7 +30,7 @@ Whether or not the entry has at least one Tanaka Corpus phrase associated with i
 
 > `readonly` **id**: `` `${number}` ``
 
-Defined in: [types.ts:249](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L249)
+Defined in: [types.ts:249](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L249)
 
 The entry sequence number
 
@@ -40,7 +40,7 @@ The entry sequence number
 
 > `optional` **isCommon?**: `true`
 
-Defined in: [types.ts:265](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L265)
+Defined in: [types.ts:265](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L265)
 
 Whether or not the entry has a priority tag (`k_pri` or `r_pri`)
 
@@ -50,7 +50,7 @@ Whether or not the entry has a priority tag (`k_pri` or `r_pri`)
 
 > `optional` **kanjiForms?**: [`DictKanjiForm`](DictKanjiForm.md)[]
 
-Defined in: [types.ts:261](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L261)
+Defined in: [types.ts:261](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L261)
 
 The name's kanji forms
 
@@ -60,7 +60,7 @@ The name's kanji forms
 
 > **meanings**: [`NeDictMeaning`](NeDictMeaning.md)[]
 
-Defined in: [types.ts:257](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L257)
+Defined in: [types.ts:257](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L257)
 
 The name's meanings/senses
 
@@ -70,6 +70,6 @@ The name's meanings/senses
 
 > **nameReadings**: [`DictReading`](DictReading.md)[]
 
-Defined in: [types.ts:253](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L253)
+Defined in: [types.ts:253](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L253)
 
 The name's readings

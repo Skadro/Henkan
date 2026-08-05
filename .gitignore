@@ -12,3 +12,4 @@ coverage/
 **/**/*.svg
 
 .npmrc
+.npmrc_g

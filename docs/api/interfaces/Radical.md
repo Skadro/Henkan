@@ -6,7 +6,7 @@
 
 # Interface: Radical
 
-Defined in: [types.ts:842](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L842)
+Defined in: [types.ts:842](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L842)
 
 Kanji radical/component information
 
@@ -20,7 +20,7 @@ Kanji radical/component information
 
 > `optional` **deckPath?**: `string`
 
-Defined in: [types.ts:668](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L668)
+Defined in: [types.ts:668](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L668)
 
 The full path of the Anki deck
 
@@ -34,7 +34,7 @@ The full path of the Anki deck
 
 > `optional` **doNotCreateNote?**: `true`
 
-Defined in: [types.ts:676](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L676)
+Defined in: [types.ts:676](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L676)
 
 Whether or not this entry should be converted into an Anki note
 
@@ -48,7 +48,7 @@ Whether or not this entry should be converted into an Anki note
 
 > `optional` **externalInfo?**: `true`
 
-Defined in: [types.ts:878](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L878)
+Defined in: [types.ts:878](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L878)
 
 Whether or not this radical/component object contains information extracted from [sources](#sources)
 
@@ -58,7 +58,7 @@ Whether or not this radical/component object contains information extracted from
 
 > `optional` **id?**: `` `${number}` ``
 
-Defined in: [types.ts:660](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L660)
+Defined in: [types.ts:660](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L660)
 
 ID used for the Anki note ID
 
@@ -72,7 +72,7 @@ ID used for the Anki note ID
 
 > `optional` **kanji?**: [`Kanji`](Kanji.md)[]
 
-Defined in: [types.ts:870](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L870)
+Defined in: [types.ts:870](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L870)
 
 Kanji that include the radical/component
 
@@ -82,7 +82,7 @@ Kanji that include the radical/component
 
 > **meanings**: `string`[]
 
-Defined in: [types.ts:854](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L854)
+Defined in: [types.ts:854](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L854)
 
 The radical/component meanings
 
@@ -92,7 +92,7 @@ The radical/component meanings
 
 > `optional` **mnemonic?**: `string`
 
-Defined in: [types.ts:866](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L866)
+Defined in: [types.ts:866](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L866)
 
 The radical/component mnemonic
 
@@ -102,7 +102,7 @@ The radical/component mnemonic
 
 > `optional` **noteID?**: `string`
 
-Defined in: [types.ts:656](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L656)
+Defined in: [types.ts:656](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L656)
 
 ID used for the resulting Anki note
 
@@ -116,7 +116,7 @@ ID used for the resulting Anki note
 
 > `optional` **noteTypeName?**: `string`
 
-Defined in: [types.ts:664](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L664)
+Defined in: [types.ts:664](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L664)
 
 Anki note type name
 
@@ -130,7 +130,7 @@ Anki note type name
 
 > `readonly` **radical**: `string`
 
-Defined in: [types.ts:846](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L846)
+Defined in: [types.ts:846](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L846)
 
 The radical/component character
 
@@ -140,7 +140,7 @@ The radical/component character
 
 > **reading**: `string`
 
-Defined in: [types.ts:850](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L850)
+Defined in: [types.ts:850](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L850)
 
 The radical/component reading (in kana)
 
@@ -150,7 +150,7 @@ The radical/component reading (in kana)
 
 > `optional` **sources?**: `string`[]
 
-Defined in: [types.ts:874](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L874)
+Defined in: [types.ts:874](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L874)
 
 The sources from which data for this radical/component has been extracted
 
@@ -160,7 +160,7 @@ The sources from which data for this radical/component has been extracted
 
 > `optional` **strokes?**: `string`
 
-Defined in: [types.ts:858](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L858)
+Defined in: [types.ts:858](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L858)
 
 The stroke count of the radical/component
 
@@ -170,7 +170,7 @@ The stroke count of the radical/component
 
 > `optional` **svg?**: `string`
 
-Defined in: [types.ts:862](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L862)
+Defined in: [types.ts:862](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L862)
 
 The radical/component SVG filename
 
@@ -180,7 +180,7 @@ The radical/component SVG filename
 
 > `optional` **tags?**: `string`[]
 
-Defined in: [types.ts:672](https://github.com/Ronokof/Henkan/blob/main/src/types.ts#L672)
+Defined in: [types.ts:672](https://github.com/Skadro/Henkan/blob/main/src/types.ts#L672)
 
 Tags generated based on the entry's information
 

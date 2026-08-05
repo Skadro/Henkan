@@ -8,7 +8,7 @@
 
 > **convertKradFile**(`kradBuffer`, `kanjiDic`, `katakanaList`): [`DictKanjiWithRadicals`](../interfaces/DictKanjiWithRadicals.md)[]
 
-Defined in: [utils.ts:872](https://github.com/Ronokof/Henkan/blob/main/src/utils.ts#L872)
+Defined in: [utils.ts:872](https://github.com/Skadro/Henkan/blob/main/src/utils.ts#L872)
 
 Converts a `kradfile2` file (EUC-JP encoded) into an array of [DictKanjiWithRadicals](../interfaces/DictKanjiWithRadicals.md) objects.
 
